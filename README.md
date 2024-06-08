@@ -23,8 +23,11 @@ Mochat(Basically a mocha) : RM10.00
 Cat-puccino(Cappunico) :RM9.00
 Cat Treats :RM3.00
 Catnip :RM3.00
-Plain croissant(2pcs) :RM5.00
-Potato karipap :RM1.50
+Plain Croissant(2pcs) :RM5.00
+Potato Karipap :RM1.50
+Tiramisu Cupcake :RM7.50
+Cheese Cake :RM6.00
+Ice Cream (Mango/Durian) :RM10.00
 
 Ordering process:
 Can order online or manually at our cafe
