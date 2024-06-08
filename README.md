@@ -1,7 +1,7 @@
 # chatbotShop information
 
-Baker:
-Mr Aiman (Exquisite 3-star Michelin star bakery chef)
+Owner:
+Mr Aiman (A remarkable man)
 
 Time open:
 Everyday from 9am to 6pm (Except Friday)
